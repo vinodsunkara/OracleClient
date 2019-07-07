@@ -13,9 +13,9 @@ Download the .dll:
 Download the Orcale Instant Client:
 ---
 
-* Download `32-bit Oracle Instant Client 12`c (Instant Client Package – Basic) from here **https://www.oracle.com/technetwork/topics/winsoft-085727.html**
-* It should download a file `instantclient-basic-nt-12.1.0.2.0.zip`
-* Drag and drop the `instantclient-basic-nt-12.1.0.2.0.zip` to `d:\home\site` from kudu debug console `https://sitename.scm.azurewebsites.net/DebugConsole`
+* Download `32-bit Oracle Instant Client 12`c (Instant Client Package – Basic **Version 12.2.0.1.0**) from here **https://www.oracle.com/technetwork/topics/winsoft-085727.html**
+* It should download a file `instantclient-basic-nt-12.2.0.1.0.zip`
+* Drag and drop the `instantclient-basic-nt-12.2.0.1.0.zip` to `d:\home\site` from kudu debug console `https://sitename.scm.azurewebsites.net/DebugConsole`
 * This will unzip the contents and create `instantclient_12_2` folder
 * Create new `applicationHost.xdt` file inside the `d:\home\site` folder and copy the below configuration
 	
