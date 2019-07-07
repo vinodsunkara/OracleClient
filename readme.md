@@ -8,7 +8,7 @@ Download the .dll:
 
 * Get the latest php_oci8.dll from here **https://pecl.php.net/package/oci8/2.0.12/windows**
 * Make sure that the extensions are compatible with ***default version of PHP and are VC9 and non-thread-safe (nts) compatible***.
-* Unzip the folder and Copy the `php_oci8.dll` to `d:\home\site\ext\`
+* Unzip the folder and drag and drop the `php_oci8.dll` to `d:\home\site\ext\`from kudu debug console `https://sitename.scm.azurewebsites.net/DebugConsole`
 
 Download the Orcale Instant Client:
 ---
